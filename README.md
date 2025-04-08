@@ -1,16 +1,41 @@
-# prism
+📱 PRISM News - Flutter News App
 
-A new Flutter project.
+PRISM News is a Flutter-based mobile application that delivers real-time, personalized news content from trusted sources. With a beautiful UI and categorized content, users can stay informed with the latest buzz, explore trending topics, and dive deep into news articles using a built-in web view.
 
-## Getting Started
+🌟 Features
 
-This project is a starting point for a Flutter application.
+📰 Home Page with Latest News
+Carousel Slider for top stories
+Trending articles section
+Smooth indicator animation
 
-A few resources to get you started if this is your first Flutter project:
+🗂️ Category-wise News
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Swipe through categories like Tech, Sports, Health, and more
+Browse category-specific articles
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌐 WebView Article Reader
+
+Seamlessly open and read full news articles
+Supports JavaScript rendering
+
+🚀 Onboarding Experience
+
+4-screen onboarding with local images
+Highlights app features
+Smooth transitions and skip/finish functionality
+
+🧱 Tech Stack
+
+Flutter: App development
+Dart: Language used for Flutter
+WebView: Article display
+Smooth Page Indicator: Carousel indicators
+Cached Network Image: Efficient image loading
+
+
+🤝 Contributing
+
+Pull requests are welcome! Feel free to suggest features, improvements, or bug fixes.
+
+Stay updated. Stay informed. Stay PRISM. ✨
